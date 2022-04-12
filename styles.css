@@ -296,7 +296,7 @@ header .navbar ul li a:hover{
     height: 20rem;
     width: 26rem;
     border-radius: 1rem;
-    margin: 2rem;
+    margin: 3rem;
     overflow: hidden;
     cursor: pointer;
 }
@@ -390,7 +390,10 @@ header .navbar ul li a:hover{
     width: 50%;
 }
 
-
+.portfolio .box-container .info{
+    display: flex;
+    flex-direction: column;
+}
 
 
 
