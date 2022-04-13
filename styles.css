@@ -127,7 +127,7 @@ header .navbar ul{
 
 header .navbar ul li a{
     display: block;
-    padding: 1rem;
+    padding: .5rem;
     margin: 1.5rem 0;
     background: #333;
     color: #fff;
@@ -395,7 +395,11 @@ header .navbar ul li a:hover{
     flex-direction: column;
 }
 
-
+.portfolio .box-container .info p{
+    font-size: 1.5rem;
+    color: #eee;
+    padding: .5rem;
+}
 
 
 
